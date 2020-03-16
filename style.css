@@ -1,8 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
 body {
+
     background-image: url(https://www.godsavethepoints.com/wp-content/uploads/2018/06/47035636_m.jpg);
     background-position: auto;
     background-size: cover;
     
+}
+header {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size: 20px;
 }
 #keys {
     display: flex;
@@ -17,67 +25,77 @@ body {
     
 }
 
-.button1 {
+#button1 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
     
 }
-.button2 {
+#button2 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
-.button3 {
+#button3 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
-.button4 {
+#button4 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
-.button5 {
+#button5 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
-.button6 {
+#button6 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
-.button7 {
+#button7 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
-.button8 {
+#button8 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    
 }
-.button9 {
+#button9 {
     border: 3px solid black;
     flex: 1 1 0px;
     text-align: center;
     margin: 0 1%;
     color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
